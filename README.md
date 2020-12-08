@@ -2,7 +2,7 @@
 Template to create ML apps using Streamlit and deploy it on Heroku.
 Should work nicely and easily. Just click [Use this Template](https://github.com/patryk-oleniuk/streamlit-heroku-template/generate) button on the top-right and name your app.
 
-Detailed tutorial available in [this](https://todo.com) article.
+Detailed tutorial available in [this](https://towardsdatascience.com/show-your-ml-project-to-the-internet-in-minutes-2a7bc3167bd0) TDS article.
 Intruction for a Quick run:
 1. Use this template, change the name to yours.
 2. (can skip this step if you just wanna deploy my dummy app for now) Develop your streamlit app in `app/streamlit_app.py`. Try locally using `streamlit run app/streamlit_app.py`. Remembers to adjust `requirements.txt` with your required python packages and python version in `runtime.txt`.
